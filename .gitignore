@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+result.jpg
+*.log
+.DS_Store
+model/model.safetensors

@@ -7,7 +7,7 @@ from transformers import DetrImageProcessor, DetrForObjectDetection
 # Configuration
 # -----------------------------
 
-MODEL_PATH = "model"
+MODEL_PATH = "Areeb9451/bone-fracture-detr"
 
 ID2LABEL = {
     0: "bone-fracture",
